@@ -1,0 +1,150 @@
+{
+  "category": "стандарт без отлежки",
+  "regions": [
+    {
+      "name": "Eastern Europe",
+      "countries": [
+        {"code": "RU", "flag": "🇷🇺", "name": "Russian Federation", "phone_code": "+7", "price": 45},
+        {"code": "UA", "flag": "🇺🇦", "name": "Ukraine", "phone_code": "+380", "price": 45},
+        {"code": "RO", "flag": "🇷🇴", "name": "Romania", "phone_code": "+40", "price": 20},
+        {"code": "MD", "flag": "🇲🇩", "name": "Republic of Moldova", "phone_code": "+373", "price": 20},
+        {"code": "BY", "flag": "🇧🇾", "name": "Belarus", "phone_code": "+375", "price": 20},
+        {"code": "BG", "flag": "🇧🇬", "name": "Bulgaria", "phone_code": "+359", "price": 20}
+      ]
+    },
+    {
+      "name": "South America",
+      "countries": [
+        {"code": "BR", "flag": "🇧🇷", "name": "Brazil", "phone_code": "+55", "price": 45}
+      ]
+    },
+    {
+      "name": "Northern Europe",
+      "countries": [
+        {"code": "NO", "flag": "🇳🇴", "name": "Norway", "phone_code": "+47", "price": 20},
+        {"code": "IE", "flag": "🇮🇪", "name": "Ireland", "phone_code": "+353", "price": 20},
+        {"code": "LV", "flag": "🇱🇻", "name": "Latvia", "phone_code": "+371", "price": 20},
+        {"code": "IS", "flag": "🇮🇸", "name": "Iceland", "phone_code": "+354", "price": 20},
+        {"code": "FI", "flag": "🇫🇮", "name": "Finland", "phone_code": "+358", "price": 20},
+        {"code": "EE", "flag": "🇪🇪", "name": "Estonia", "phone_code": "+372", "price": 20}
+      ]
+    },
+    {
+      "name": "Western Europe",
+      "countries": [
+        {"code": "DE", "flag": "🇩🇪", "name": "Germany", "phone_code": "+49", "price": 20},
+        {"code": "FR", "flag": "🇫🇷", "name": "France", "phone_code": "+33", "price": 20},
+        {"code": "LU", "flag": "🇱🇺", "name": "Luxembourg", "phone_code": "+352", "price": 20},
+        {"code": "BE", "flag": "🇧🇪", "name": "Belgium", "phone_code": "+32", "price": 20}
+      ]
+    },
+    {
+      "name": "Western Asia",
+      "countries": [
+        {"code": "AM", "flag": "🇦🇲", "name": "Armenia", "phone_code": "+374", "price": 20},
+        {"code": "SA", "flag": "🇸🇦", "name": "Saudi Arabia", "phone_code": "+966", "price": 20},
+        {"code": "IL", "flag": "🇮🇱", "name": "Israel", "phone_code": "+972", "price": 20},
+        {"code": "CY", "flag": "🇨🇾", "name": "Cyprus", "phone_code": "+357", "price": 20},
+        {"code": "GE", "flag": "🇬🇪", "name": "Georgia", "phone_code": "+995", "price": 20},
+        {"code": "AZ", "flag": "🇦🇿", "name": "Azerbaijan", "phone_code": "+994", "price": 20},
+        {"code": "AE", "flag": "🇦🇪", "name": "United Arab Emirates", "phone_code": "+971", "price": 20},
+        {"code": "KW", "flag": "🇰🇼", "name": "Kuwait", "phone_code": "+965", "price": 20},
+        {"code": "IQ", "flag": "🇮🇶", "name": "Iraq", "phone_code": "+964", "price": 20}
+      ]
+    },
+    {
+      "name": "Southern Europe",
+      "countries": [
+        {"code": "RS", "flag": "🇷🇸", "name": "Serbia", "phone_code": "+381", "price": 20},
+        {"code": "PT", "flag": "🇵🇹", "name": "Portugal", "phone_code": "+351", "price": 20}
+      ]
+    },
+    {
+      "name": "Central Asia",
+      "countries": [
+        {"code": "KG", "flag": "🇰🇬", "name": "Kyrgyzstan", "phone_code": "+996", "price": 20},
+        {"code": "KZ", "flag": "🇰🇿", "name": "Kazakhstan", "phone_code": "+7", "price": 20},
+        {"code": "UZ", "flag": "🇺🇿", "name": "Uzbekistan", "phone_code": "+998", "price": 20},
+        {"code": "TJ", "flag": "🇹🇯", "name": "Tajikistan", "phone_code": "+992", "price": 20},
+        {"code": "TM", "flag": "🇹🇲", "name": "Turkmenistan", "phone_code": "+993", "price": 20}
+      ]
+    },
+    {
+      "name": "Southeast Asia",
+      "countries": [
+        {"code": "TH", "flag": "🇹🇭", "name": "Thailand", "phone_code": "+66", "price": 20},
+        {"code": "MM", "flag": "🇲🇲", "name": "Myanmar", "phone_code": "+95", "price": 2}
+      ]
+    },
+    {
+      "name": "Central Africa",
+      "countries": [
+        {"code": "AO", "flag": "🇦🇴", "name": "Angola", "phone_code": "+244", "price": 2},
+        {"code": "CD", "flag": "🇨🇩", "name": "Democratic Republic of the Congo", "phone_code": "+243", "price": 2},
+        {"code": "CF", "flag": "🇨🇫", "name": "Central African Republic", "phone_code": "+236", "price": 2},
+        {"code": "CG", "flag": "🇨🇬", "name": "Congo", "phone_code": "+242", "price": 2},
+        {"code": "CM", "flag": "🇨🇲", "name": "Cameroon", "phone_code": "+237", "price": 2},
+        {"code": "GA", "flag": "🇬🇦", "name": "Gabon", "phone_code": "+241", "price": 2},
+        {"code": "GQ", "flag": "🇬🇶", "name": "Equatorial Guinea", "phone_code": "+240", "price": 2}
+      ]
+    },
+    {
+      "name": "West Africa",
+      "countries": [
+        {"code": "BF", "flag": "🇧🇫", "name": "Burkina Faso", "phone_code": "+226", "price": 2},
+        {"code": "BJ", "flag": "🇧🇯", "name": "Benin", "phone_code": "+229", "price": 2},
+        {"code": "CI", "flag": "🇨🇮", "name": "Cote d'Ivoire", "phone_code": "+225", "price": 2},
+        {"code": "CV", "flag": "🇨🇻", "name": "Cape Verde", "phone_code": "+238", "price": 2},
+        {"code": "GH", "flag": "🇬🇭", "name": "Ghana", "phone_code": "+233", "price": 2},
+        {"code": "GM", "flag": "🇬🇲", "name": "Gambia", "phone_code": "+220", "price": 2},
+        {"code": "GN", "flag": "🇬🇳", "name": "Guinea", "phone_code": "+224", "price": 2},
+        {"code": "GW", "flag": "🇬🇼", "name": "Guinea-Bissau", "phone_code": "+245", "price": 2},
+        {"code": "LR", "flag": "🇱🇷", "name": "Liberia", "phone_code": "+231", "price": 2},
+        {"code": "ML", "flag": "🇲🇱", "name": "Mali", "phone_code": "+223", "price": 2},
+        {"code": "MR", "flag": "🇲🇷", "name": "Mauritania", "phone_code": "+222", "price": 2},
+        {"code": "NE", "flag": "🇳🇪", "name": "Niger", "phone_code": "+227", "price": 2},
+        {"code": "NG", "flag": "🇳🇬", "name": "Nigeria", "phone_code": "+234", "price": 2}
+      ]
+    },
+    {
+      "name": "East Africa",
+      "countries": [
+        {"code": "BI", "flag": "🇧🇮", "name": "Burundi", "phone_code": "+257", "price": 2},
+        {"code": "DJ", "flag": "🇩🇯", "name": "Djibouti", "phone_code": "+253", "price": 2},
+        {"code": "ER", "flag": "🇪🇷", "name": "Eritrea", "phone_code": "+291", "price": 2},
+        {"code": "ET", "flag": "🇪🇹", "name": "Ethiopia", "phone_code": "+251", "price": 2},
+        {"code": "KE", "flag": "🇰🇪", "name": "Kenya", "phone_code": "+254", "price": 2},
+        {"code": "KM", "flag": "🇰🇲", "name": "Comoros", "phone_code": "+269", "price": 2},
+        {"code": "MG", "flag": "🇲🇬", "name": "Madagascar", "phone_code": "+261", "price": 2},
+        {"code": "MU", "flag": "🇲🇺", "name": "Mauritius", "phone_code": "+230", "price": 2},
+        {"code": "MW", "flag": "🇲🇼", "name": "Malawi", "phone_code": "+265", "price": 2},
+        {"code": "MZ", "flag": "🇲🇿", "name": "Mozambique", "phone_code": "+258", "price": 2},
+        {"code": "RE", "flag": "🇷🇪", "name": "Reunion", "phone_code": "+262", "price": 2},
+        {"code": "RW", "flag": "🇷🇼", "name": "Rwanda", "phone_code": "+250", "price": 2},
+        {"code": "SC", "flag": "🇸🇨", "name": "Seychelles", "phone_code": "+248", "price": 2}
+      ]
+    },
+    {
+      "name": "Southern Africa",
+      "countries": [
+        {"code": "BW", "flag": "🇧🇼", "name": "Botswana", "phone_code": "+267", "price": 2},
+        {"code": "LS", "flag": "🇱🇸", "name": "Lesotho", "phone_code": "+266", "price": 2},
+        {"code": "NA", "flag": "🇳🇦", "name": "Namibia", "phone_code": "+264", "price": 2}
+      ]
+    },
+    {
+      "name": "North Africa",
+      "countries": [
+        {"code": "DZ", "flag": "🇩🇿", "name": "Algeria", "phone_code": "+213", "price": 2},
+        {"code": "LY", "flag": "🇱🇾", "name": "Libya", "phone_code": "+218", "price": 2},
+        {"code": "MA", "flag": "🇲🇦", "name": "Morocco", "phone_code": "+212", "price": 2}
+      ]
+    },
+    {
+      "name": "All Others",
+      "countries": [
+        {"code": "XX", "flag": "🏳️", "name": "Any other country", "phone_code": "", "price": 2}
+      ]
+    }
+  ]
+}

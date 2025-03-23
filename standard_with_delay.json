@@ -1,0 +1,783 @@
+{
+  "category": "стандарт с отлежкой 24 часа",
+  "regions": [
+    {
+      "name": "Eastern Europe",
+      "countries": [
+        {
+          "code": "RU",
+          "flag": "🇷🇺",
+          "name": "Russian Federation",
+          "phone_code": "+7",
+          "price": 60
+        },
+        {
+          "code": "UA",
+          "flag": "🇺🇦",
+          "name": "Ukraine",
+          "phone_code": "+380",
+          "price": 60
+        },
+        {
+          "code": "BY",
+          "flag": "🇧🇾",
+          "name": "Belarus",
+          "phone_code": "+375",
+          "price": 33
+        },
+        {
+          "code": "MD",
+          "flag": "🇲🇩",
+          "name": "Republic of Moldova",
+          "phone_code": "+373",
+          "price": 33
+        },
+        {
+          "code": "RO",
+          "flag": "🇷🇴",
+          "name": "Romania",
+          "phone_code": "+40",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "name": "South America",
+      "countries": [
+        {
+          "code": "BR",
+          "flag": "🇧🇷",
+          "name": "Brazil",
+          "phone_code": "+55",
+          "price": 60
+        },
+        {
+          "code": "AR",
+          "flag": "🇦🇷",
+          "name": "Argentina",
+          "phone_code": "+54",
+          "price": 33
+        },
+        {
+          "code": "VE",
+          "flag": "🇻🇪",
+          "name": "Bolivarian Republic of Venezuela",
+          "phone_code": "+58",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "name": "Western Europe",
+      "countries": [
+        {
+          "code": "DE",
+          "flag": "🇩🇪",
+          "name": "Germany",
+          "phone_code": "+49",
+          "price": 33
+        },
+        {
+          "code": "FR",
+          "flag": "🇫🇷",
+          "name": "France",
+          "phone_code": "+33",
+          "price": 33
+        },
+        {
+          "code": "AT",
+          "flag": "🇦🇹",
+          "name": "Austria",
+          "phone_code": "+43",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "name": "Central Asia",
+      "countries": [
+        {
+          "code": "KZ",
+          "flag": "🇰🇿",
+          "name": "Kazakhstan",
+          "phone_code": "+7",
+          "price": 33
+        },
+        {
+          "code": "KG",
+          "flag": "🇰🇬",
+          "name": "Kyrgyzstan",
+          "phone_code": "+996",
+          "price": 33
+        },
+        {
+          "code": "TJ",
+          "flag": "🇹🇯",
+          "name": "Tajikistan",
+          "phone_code": "+992",
+          "price": 33
+        },
+        {
+          "code": "TM",
+          "flag": "🇹🇲",
+          "name": "Turkmenistan",
+          "phone_code": "+993",
+          "price": 33
+        },
+        {
+          "code": "UZ",
+          "flag": "🇺🇿",
+          "name": "Uzbekistan",
+          "phone_code": "+998",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "name": "Western Asia",
+      "countries": [
+        {
+          "code": "AM",
+          "flag": "🇦🇲",
+          "name": "Armenia",
+          "phone_code": "+374",
+          "price": 33
+        },
+        {
+          "code": "AZ",
+          "flag": "🇦🇿",
+          "name": "Azerbaijan",
+          "phone_code": "+994",
+          "price": 33
+        },
+        {
+          "code": "IL",
+          "flag": "🇮🇱",
+          "name": "Israel",
+          "phone_code": "+972",
+          "price": 33
+        },
+        {
+          "code": "SA",
+          "flag": "🇸🇦",
+          "name": "Saudi Arabia",
+          "phone_code": "+966",
+          "price": 33
+        },
+        {
+          "code": "KW",
+          "flag": "🇰🇼",
+          "name": "Kuwait",
+          "phone_code": "+965",
+          "price": 33
+        },
+        {
+          "code": "IQ",
+          "flag": "🇮🇶",
+          "name": "Iraq",
+          "phone_code": "+964",
+          "price": 33
+        },
+        {
+          "code": "SY",
+          "flag": "🇸🇾",
+          "name": "Syrian Arab Republic",
+          "phone_code": "+963",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "name": "Northern Europe",
+      "countries": [
+        {
+          "code": "IE",
+          "flag": "🇮🇪",
+          "name": "Ireland",
+          "phone_code": "+353",
+          "price": 33
+        },
+        {
+          "code": "LV",
+          "flag": "🇱🇻",
+          "name": "Latvia",
+          "phone_code": "+371",
+          "price": 33
+        },
+        {
+          "code": "NO",
+          "flag": "🇳🇴",
+          "name": "Norway",
+          "phone_code": "+47",
+          "price": 33
+        },
+        {
+          "code": "GB",
+          "flag": "🇬🇧",
+          "name": "United Kingdom",
+          "phone_code": "+44",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "name": "Southern Europe",
+      "countries": [
+        {
+          "code": "RS",
+          "flag": "🇷🇸",
+          "name": "Serbia",
+          "phone_code": "+381",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "name": "South Asia",
+      "countries": [
+        {
+          "code": "AF",
+          "flag": "🇦🇫",
+          "name": "Afghanistan",
+          "phone_code": "+93",
+          "price": 33
+        },
+        {
+          "code": "BD",
+          "flag": "🇧🇩",
+          "name": "Bangladesh",
+          "phone_code": "+880",
+          "price": 2
+        },
+        {
+          "code": "IN",
+          "flag": "🇮🇳",
+          "name": "India",
+          "phone_code": "+91",
+          "price": 2
+        }
+      ]
+    },
+    {
+      "name": "Caribbean",
+      "countries": [
+        {
+          "code": "CU",
+          "flag": "🇨🇺",
+          "name": "Cuba",
+          "phone_code": "+53",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "name": "Southeast Asia",
+      "countries": [
+        {
+          "code": "TH",
+          "flag": "🇹🇭",
+          "name": "Thailand",
+          "phone_code": "+66",
+          "price": 33
+        },
+        {
+          "code": "LA",
+          "flag": "🇱🇦",
+          "name": "Lao People's Democratic Republic",
+          "phone_code": "+856",
+          "price": 33
+        },
+        {
+          "code": "KH",
+          "flag": "🇰🇭",
+          "name": "Cambodia",
+          "phone_code": "+855",
+          "price": 33
+        },
+        {
+          "code": "MY",
+          "flag": "🇲🇾",
+          "name": "Malaysia",
+          "phone_code": "+60",
+          "price": 33
+        },
+        {
+          "code": "ID",
+          "flag": "🇮🇩",
+          "name": "Indonesia",
+          "phone_code": "+62",
+          "price": 2
+        },
+        {
+          "code": "MM",
+          "flag": "🇲🇲",
+          "name": "Myanmar",
+          "phone_code": "+95",
+          "price": 2
+        },
+        {
+          "code": "PH",
+          "flag": "🇵🇭",
+          "name": "Philippines",
+          "phone_code": "+63",
+          "price": 2
+        }
+      ]
+    },
+    {
+      "name": "Central America",
+      "countries": [
+        {
+          "code": "SV",
+          "flag": "🇸🇻",
+          "name": "El Salvador",
+          "phone_code": "+503",
+          "price": 33
+        },
+        {
+          "code": "GT",
+          "flag": "🇬🇹",
+          "name": "Guatemala",
+          "phone_code": "+502",
+          "price": 33
+        },
+        {
+          "code": "MX",
+          "flag": "🇲🇽",
+          "name": "Mexico",
+          "phone_code": "+52",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "name": "All Others",
+      "countries": [
+        {
+          "code": "XX",
+          "flag": "🏳️",
+          "name": "Any other country",
+          "phone_code": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "Central Africa",
+      "countries": [
+        {
+          "code": "AO",
+          "flag": "🇦🇴",
+          "name": "Angola",
+          "phone_code": "+244",
+          "price": 2
+        },
+        {
+          "code": "CD",
+          "flag": "🇨🇩",
+          "name": "Democratic Republic of the Congo",
+          "phone_code": "+243",
+          "price": 2
+        },
+        {
+          "code": "CF",
+          "flag": "🇨🇫",
+          "name": "Central African Republic",
+          "phone_code": "+236",
+          "price": 2
+        },
+        {
+          "code": "CG",
+          "flag": "🇨🇬",
+          "name": "Congo",
+          "phone_code": "+242",
+          "price": 2
+        },
+        {
+          "code": "CM",
+          "flag": "🇨🇲",
+          "name": "Cameroon",
+          "phone_code": "+237",
+          "price": 2
+        },
+        {
+          "code": "GA",
+          "flag": "🇬🇦",
+          "name": "Gabon",
+          "phone_code": "+241",
+          "price": 2
+        },
+        {
+          "code": "GQ",
+          "flag": "🇬🇶",
+          "name": "Equatorial Guinea",
+          "phone_code": "+240",
+          "price": 2
+        },
+        {
+          "code": "ST",
+          "flag": "🇸🇹",
+          "name": "Sao Tome and Principe",
+          "phone_code": "+239",
+          "price": 2
+        },
+        {
+          "code": "TD",
+          "flag": "🇹🇩",
+          "name": "Chad",
+          "phone_code": "+235",
+          "price": 2
+        }
+      ]
+    },
+    {
+      "name": "West Africa",
+      "countries": [
+        {
+          "code": "BF",
+          "flag": "🇧🇫",
+          "name": "Burkina Faso",
+          "phone_code": "+226",
+          "price": 2
+        },
+        {
+          "code": "BJ",
+          "flag": "🇧🇯",
+          "name": "Benin",
+          "phone_code": "+229",
+          "price": 2
+        },
+        {
+          "code": "CI",
+          "flag": "🇨🇮",
+          "name": "Cote d'Ivoire",
+          "phone_code": "+225",
+          "price": 2
+        },
+        {
+          "code": "CV",
+          "flag": "🇨🇻",
+          "name": "Cape Verde",
+          "phone_code": "+238",
+          "price": 2
+        },
+        {
+          "code": "GH",
+          "flag": "🇬🇭",
+          "name": "Ghana",
+          "phone_code": "+233",
+          "price": 2
+        },
+        {
+          "code": "GM",
+          "flag": "🇬🇲",
+          "name": "Gambia",
+          "phone_code": "+220",
+          "price": 2
+        },
+        {
+          "code": "GN",
+          "flag": "🇬🇳",
+          "name": "Guinea",
+          "phone_code": "+224",
+          "price": 2
+        },
+        {
+          "code": "GW",
+          "flag": "🇬🇼",
+          "name": "Guinea-Bissau",
+          "phone_code": "+245",
+          "price": 2
+        },
+        {
+          "code": "LR",
+          "flag": "🇱🇷",
+          "name": "Liberia",
+          "phone_code": "+231",
+          "price": 2
+        },
+        {
+          "code": "ML",
+          "flag": "🇲🇱",
+          "name": "Mali",
+          "phone_code": "+223",
+          "price": 2
+        },
+        {
+          "code": "MR",
+          "flag": "🇲🇷",
+          "name": "Mauritania",
+          "phone_code": "+222",
+          "price": 2
+        },
+        {
+          "code": "NE",
+          "flag": "🇳🇪",
+          "name": "Niger",
+          "phone_code": "+227",
+          "price": 2
+        },
+        {
+          "code": "NG",
+          "flag": "🇳🇬",
+          "name": "Nigeria",
+          "phone_code": "+234",
+          "price": 2
+        },
+        {
+          "code": "SH",
+          "flag": "🇸🇭",
+          "name": "Saint Helena, Ascension and Tristan da Cunha",
+          "phone_code": "+290",
+          "price": 2
+        },
+        {
+          "code": "SL",
+          "flag": "🇸🇱",
+          "name": "Sierra Leone",
+          "phone_code": "+232",
+          "price": 2
+        },
+        {
+          "code": "SN",
+          "flag": "🇸🇳",
+          "name": "Senegal",
+          "phone_code": "+221",
+          "price": 2
+        },
+        {
+          "code": "TG",
+          "flag": "🇹🇬",
+          "name": "Togo",
+          "phone_code": "+228",
+          "price": 2
+        }
+      ]
+    },
+    {
+      "name": "East Africa",
+      "countries": [
+        {
+          "code": "BI",
+          "flag": "🇧🇮",
+          "name": "Burundi",
+          "phone_code": "+257",
+          "price": 2
+        },
+        {
+          "code": "DJ",
+          "flag": "🇩🇯",
+          "name": "Djibouti",
+          "phone_code": "+253",
+          "price": 2
+        },
+        {
+          "code": "ER",
+          "flag": "🇪🇷",
+          "name": "Eritrea",
+          "phone_code": "+291",
+          "price": 2
+        },
+        {
+          "code": "ET",
+          "flag": "🇪🇹",
+          "name": "Ethiopia",
+          "phone_code": "+251",
+          "price": 2
+        },
+        {
+          "code": "KE",
+          "flag": "🇰🇪",
+          "name": "Kenya",
+          "phone_code": "+254",
+          "price": 2
+        },
+        {
+          "code": "KM",
+          "flag": "🇰🇲",
+          "name": "Comoros",
+          "phone_code": "+269",
+          "price": 2
+        },
+        {
+          "code": "MG",
+          "flag": "🇲🇬",
+          "name": "Madagascar",
+          "phone_code": "+261",
+          "price": 2
+        },
+        {
+          "code": "MU",
+          "flag": "🇲🇺",
+          "name": "Mauritius",
+          "phone_code": "+230",
+          "price": 2
+        },
+        {
+          "code": "MW",
+          "flag": "🇲🇼",
+          "name": "Malawi",
+          "phone_code": "+265",
+          "price": 2
+        },
+        {
+          "code": "MZ",
+          "flag": "🇲🇿",
+          "name": "Mozambique",
+          "phone_code": "+258",
+          "price": 2
+        },
+        {
+          "code": "RE",
+          "flag": "🇷🇪",
+          "name": "Reunion",
+          "phone_code": "+262",
+          "price": 2
+        },
+        {
+          "code": "RW",
+          "flag": "🇷🇼",
+          "name": "Rwanda",
+          "phone_code": "+250",
+          "price": 2
+        },
+        {
+          "code": "SC",
+          "flag": "🇸🇨",
+          "name": "Seychelles",
+          "phone_code": "+248",
+          "price": 2
+        },
+        {
+          "code": "SO",
+          "flag": "🇸🇴",
+          "name": "Somalia",
+          "phone_code": "+252",
+          "price": 2
+        },
+        {
+          "code": "SS",
+          "flag": "🇸🇸",
+          "name": "South Sudan",
+          "phone_code": "+211",
+          "price": 2
+        },
+        {
+          "code": "TZ",
+          "flag": "🇹🇿",
+          "name": "Tanzania",
+          "phone_code": "+255",
+          "price": 2
+        },
+        {
+          "code": "UG",
+          "flag": "🇺🇬",
+          "name": "Uganda",
+          "phone_code": "+256",
+          "price": 2
+        },
+        {
+          "code": "YT",
+          "flag": "🇾🇹",
+          "name": "Mayotte",
+          "phone_code": "+262",
+          "price": 2
+        },
+        {
+          "code": "ZM",
+          "flag": "🇿🇲",
+          "name": "Zambia",
+          "phone_code": "+260",
+          "price": 2
+        },
+        {
+          "code": "ZW",
+          "flag": "🇿🇼",
+          "name": "Zimbabwe",
+          "phone_code": "+263",
+          "price": 2
+        }
+      ]
+    },
+    {
+      "name": "Southern Africa",
+      "countries": [
+        {
+          "code": "BW",
+          "flag": "🇧🇼",
+          "name": "Botswana",
+          "phone_code": "+267",
+          "price": 2
+        },
+        {
+          "code": "LS",
+          "flag": "🇱🇸",
+          "name": "Lesotho",
+          "phone_code": "+266",
+          "price": 2
+        },
+        {
+          "code": "NA",
+          "flag": "🇳🇦",
+          "name": "Namibia",
+          "phone_code": "+264",
+          "price": 2
+        },
+        {
+          "code": "SZ",
+          "flag": "🇸🇿",
+          "name": "Eswatini",
+          "phone_code": "+268",
+          "price": 2
+        },
+        {
+          "code": "ZA",
+          "flag": "🇿🇦",
+          "name": "South Africa",
+          "phone_code": "+27",
+          "price": 2
+        }
+      ]
+    },
+    {
+      "name": "North Africa",
+      "countries": [
+        {
+          "code": "DZ",
+          "flag": "🇩🇿",
+          "name": "Algeria",
+          "phone_code": "+213",
+          "price": 2
+        },
+        {
+          "code": "LY",
+          "flag": "🇱🇾",
+          "name": "Libya",
+          "phone_code": "+218",
+          "price": 2
+        },
+        {
+          "code": "MA",
+          "flag": "🇲🇦",
+          "name": "Morocco",
+          "phone_code": "+212",
+          "price": 2
+        },
+        {
+          "code": "SD",
+          "flag": "🇸🇩",
+          "name": "Sudan",
+          "phone_code": "+249",
+          "price": 2
+        },
+        {
+          "code": "TN",
+          "flag": "🇹🇳",
+          "name": "Tunisia",
+          "phone_code": "+216",
+          "price": 2
+        }
+      ]
+    }
+  ]
+}
